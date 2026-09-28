@@ -15,7 +15,8 @@ I am a passionate **Full-Stack Developer** specializing in building modern web a
 ### 🌐 Connect with Me
 * **Portfolio Website:** [manish-kumawat-portfolio.vercel.app](https://manish-kumawat-portfolio.vercel.app)
 * **LinkedIn:** [Manish Kumawat](www.linkedin.com/in/manish-kumawat-435b26374) 
-* **GitHub:** [@manish-kumawat](https://github.com/manish-kumawat)
+* **GitHub:** [@manish-kumawat](https://github.com/Manish-kumawat432
+)
 
 ---
 
