@@ -19,5 +19,3 @@ I am a passionate **Full-Stack Developer** specializing in building modern web a
 
 ---
 
-### 📊 GitHub Stats
-![Manish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manish-kumawat&show_icons=true&theme=tokyonight&hide_border=true)
